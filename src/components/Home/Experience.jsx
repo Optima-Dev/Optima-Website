@@ -57,7 +57,7 @@ const Div = styled.div`
     content: '';
     position: absolute;
     top: -5px;
-    right: 72%;
+    right: calc(100% - 402px);
     width: 20px;
     height: 20px;
     transform: translateY(-50%);
